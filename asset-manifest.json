@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-lights-out/static/css/main.95a1d0bd.chunk.css",
+    "main.js": "/react-lights-out/static/js/main.a183d189.chunk.js",
+    "main.js.map": "/react-lights-out/static/js/main.a183d189.chunk.js.map",
+    "runtime-main.js": "/react-lights-out/static/js/runtime-main.fc1bd781.js",
+    "runtime-main.js.map": "/react-lights-out/static/js/runtime-main.fc1bd781.js.map",
+    "static/js/2.d7c7b81f.chunk.js": "/react-lights-out/static/js/2.d7c7b81f.chunk.js",
+    "static/js/2.d7c7b81f.chunk.js.map": "/react-lights-out/static/js/2.d7c7b81f.chunk.js.map",
+    "static/js/3.f49f824f.chunk.js": "/react-lights-out/static/js/3.f49f824f.chunk.js",
+    "static/js/3.f49f824f.chunk.js.map": "/react-lights-out/static/js/3.f49f824f.chunk.js.map",
+    "index.html": "/react-lights-out/index.html",
+    "static/css/main.95a1d0bd.chunk.css.map": "/react-lights-out/static/css/main.95a1d0bd.chunk.css.map",
+    "static/js/2.d7c7b81f.chunk.js.LICENSE.txt": "/react-lights-out/static/js/2.d7c7b81f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-lights-out/static/media/neon.3cdac083.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc1bd781.js",
+    "static/js/2.d7c7b81f.chunk.js",
+    "static/css/main.95a1d0bd.chunk.css",
+    "static/js/main.a183d189.chunk.js"
+  ]
+}
